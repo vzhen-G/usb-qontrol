@@ -22,7 +22,7 @@ def Qontrol_Init():
     heater.close()
 
 
-fsaf 
+
 
 
 
